@@ -20,4 +20,4 @@ setTimeout(function () {
       ['no', 100 - probability]
     ]
   })
-}, 1500)
+}, 0)
