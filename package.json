@@ -1,0 +1,17 @@
+{
+  "name": "ice-dukes-abstieg",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "micro": "latest",
+    "micro-cors": "latest"
+  }
+}
